@@ -1,2 +1,2 @@
-gitlab也支持Cloudflare Pages在线直接上传，
+Gitlab也支持Cloudflare Pages在线直接上传，
 也可下载至Github在线上传
